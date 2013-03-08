@@ -10,15 +10,11 @@ html {
 
 .lifted {
   margin-top:20px;
-
   padding:10px 20px;
-  /*-webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow:    0px 0px 5px rgba(0, 0, 0, 0.2);
-  box-shadow:         0px 0px 10px rgba(0, 0, 0, 0.2);*/
 }
 
 .masthead, .main {
-  background-color:#ddd;
+  background-color:#eee;
   padding:30px;
 }
 
@@ -50,21 +46,17 @@ h1 {
   color:#fff; 
   text-shadow: 0px 2px 3px #555;
   padding:10px;
-   background: -webkit-gradient(linear, left top, left bottom, from(#d64b4b), to(#ab2c2c));
-   background: -webkit-linear-gradient(top, #d64b4b, #ab2c2c);
-   background: -moz-linear-gradient(top, #d64b4b, #ab2c2c);
-   background: -ms-linear-gradient(top, #d64b4b, #ab2c2c);
-   background: -o-linear-gradient(top, #d64b4b, #ab2c2c);
-    -webkit-box-shadow: rgba(000,000,000,0.3) 0 1px 1px;
-   -moz-box-shadow: rgba(000,000,000,0.3) 0 1px 1px;
-   box-shadow: rgba(000,000,000,0.3) 0 1px 1px;
-
-
+  background: -webkit-gradient(linear, left top, left bottom, from(#d64b4b), to(#ab2c2c));
+  background: -webkit-linear-gradient(top, #d64b4b, #ab2c2c);
+  background: -moz-linear-gradient(top, #d64b4b, #ab2c2c);
+  background: -ms-linear-gradient(top, #d64b4b, #ab2c2c);
+  background: -o-linear-gradient(top, #d64b4b, #ab2c2c);
+  -webkit-box-shadow: rgba(000,000,000,0.3) 0 1px 1px;
+  -moz-box-shadow: rgba(000,000,000,0.3) 0 1px 1px;
+  box-shadow: rgba(000,000,000,0.3) 0 1px 1px;
 }
 
 .item-title { font-weight: bold; }
-
-
 
 .item-highlight {
   font-size: .9em;
